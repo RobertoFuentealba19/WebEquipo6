@@ -1,1 +1,1 @@
-# WebEquipo6
+#Sitio colaborativo
